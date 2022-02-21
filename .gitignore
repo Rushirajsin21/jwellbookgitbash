@@ -49,6 +49,9 @@ buck-out/
 # CocoaPods
 /ios/Pods/
 
+#connection
+.conn// it ignore this file for commit push
+
 # Expo
 .expo/
 web-build/
